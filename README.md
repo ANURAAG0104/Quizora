@@ -2,7 +2,7 @@
 TITLE:     Enhanced Interactive Quiz Application (QUIZORA)
 
 
-TEAM MEMBERS:
+TEAM MEMBERS & THEIR ROLES:
 
 Front-End:
 
